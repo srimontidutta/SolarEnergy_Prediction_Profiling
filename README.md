@@ -1,4 +1,4 @@
-# SolarEnergy_Prediction_Profiling
+# Performance & Resource Consumption Evaluation of Different Models for Prediction of Solar Radiation
 
 ## Dataset
 Open-source HI-SEAS weather station data provided by NASA
